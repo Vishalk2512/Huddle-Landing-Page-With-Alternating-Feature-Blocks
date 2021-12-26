@@ -8,10 +8,10 @@ This is a Frontend Mentor Challenge of Junior Level
 
 **If you want to see my Live Project click below** :point_down:
 
-[Live Preview]()
+[Live Preview](https://naughty-lalande-ecc1f9.netlify.app/)
 
 _if above live preview doesn't work click below_ :point_down:
 
-[Live Preview]()
+[Live Preview](https://huddle-landing-page-with-alternating-feature-blocks-two.vercel.app/)
 
 #### Thank you :+1:
